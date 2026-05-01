@@ -1,6 +1,6 @@
 
 
-# ===== Project: Daily Linux (macOS) System Report =====
+# ====== Project: Daily Linux (macOS) System Report ======
 # 📄 Description: This script collects basic system info, compresses it into a report, and stores it for review.
 
 # === Step 1: Setup Variables ===
@@ -49,3 +49,9 @@ rm "$LOG_DIR/$REPORT_FILE"
 
 # === Done ===
 echo "✅ Report generated and archived at: $LOG_DIR/$ARCHIVE_FILE"
+
+
+
+
+
+
